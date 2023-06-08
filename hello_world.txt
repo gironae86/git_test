@@ -2,3 +2,4 @@
 hello world!
 testing hello world.
 status
+im making this to know what im doing
